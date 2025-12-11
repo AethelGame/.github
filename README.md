@@ -1,2 +1,3 @@
-# .github
-Github configuration for the organization.
+# Aethel
+
+More information later...
