@@ -1,3 +1,0 @@
-# Aethel
-
-More information later...
